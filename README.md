@@ -1,4 +1,4 @@
-![HoverCargo-X cover](assets/cover.png)
+![HoverCargo-X cover](HoverCargo-X%20cover.png)
 
 # 🚁 HoverCargo-X — Heavy-Lift Hover Cargo Transport Lab
 
